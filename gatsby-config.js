@@ -114,8 +114,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `hello-gastby`,
-        short_name: `hello-friend`,
+        name: `hello_gastby`,
+        short_name: `hello_gastby`,
         start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
