@@ -12,6 +12,7 @@ ExamPLIO Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec int
 | ------------- | :-----------: | -----: |
 | col 3 is      | right-aligned | \$1600 |
 | col 2 is      |   centered    |   \$12 |
+| zeb  XXX   pes |  arKOIneat  |   \$1 |
 | zebra stripes |   are neat    |    \$1 |
 
 **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
