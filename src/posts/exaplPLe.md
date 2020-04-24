@@ -1,12 +1,12 @@
 ---
-title: "ExamPLIO"
+title: "ExamPLIOXman"
 date: "2019-01-01"
 path: "/examkle"
 author: "Lorem Ipsum"
 excerpt: "ExamPLIO ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
 ---
 
-ExamPLIO Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.
+ExamPLIOXman Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.
 
 | Tables        |      Are      |   Cool |
 | ------------- | :-----------: | -----: |
